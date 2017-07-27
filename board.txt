@@ -1,0 +1,22 @@
+variant=mikroe-mikromedia-795
+description=MikroElektronika PIC32 mikromedia Plus for PIC32MX7
+group=MikroElektronika
+platform=pic32
+board=_BOARD_MIKROE_MIKROMEDIA_
+board.flags=-D_USE_USB_FOR_SERIAL_::-D_USB
+ccflags=ffff
+ldscript=pic322mx795f512l-uhb.ld
+upload.protocol=uhb
+upload.maximum_size=520192
+upload.speed=115200
+build.mcu=32MX795F512L
+build.f_cpu=80000000L
+build.core=pic32
+build.variant=mikroe-mikromedia
+family=pic32
+version=0.3
+revision=3
+core=chipkiT
+name=mikroe-mikromedia-795
+bootloader.file=${board:root}/bootloader
+

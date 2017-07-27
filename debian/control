@@ -1,0 +1,23 @@
+Source: mikroe-mikromedia-795
+Section: libraries
+XBSC-Family: pic32
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+XBSC-TieCore: 
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: mikroe-mikromedia-795
+Section: boards
+Architecture: all
+XBSC-Group: MikroElektronika
+Depends: chipkit
+Description: PIC32 mikromedia Plus for PIC32MX7
+ Compact high-quality smart display and a development platform with 
+ PIC32MX795F512L device. Large 4.3" 480x272px TFT Color Display with 
+ Touch Screen and Stereo MP3 Codec chip with great performance give 
+ you true power to build GUI-centric embedded applications. This board 
+ can be used for both development or as a final product. 
+
+
+
