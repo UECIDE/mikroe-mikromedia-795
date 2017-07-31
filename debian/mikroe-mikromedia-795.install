@@ -1,4 +1,4 @@
 Board_Data.c boards/MikroElektronika/mikroe-mikromedia-795
 Board_Defs.h boards/MikroElektronika/mikroe-mikromedia-795
 board.txt boards/MikroElektronika/mikroe-mikromedia-795
-pic32mz795f512l-uhb.ld boards/MikroElektronika/mikroe-mikromedia-795
+pic32mx795f512l-uhb.ld boards/MikroElektronika/mikroe-mikromedia-795
