@@ -20,3 +20,6 @@ core=chipkiT
 name=mikroe-mikromedia-795
 bootloader.file=${board:root}/bootloader
 
+bootloader.vid=1234
+bootloader.pid=0001
+
